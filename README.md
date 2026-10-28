@@ -1,16 +1,20 @@
-## Hi there 👋
+# KDV Hesaplama Aracı - %1 %8 %18
+
+Ücretsiz, PWA, Offline, 22 dilde çalışan KDV hesaplama aracı.
+
+**Canlı Demo:** https://www.invoiceluxe.com/tr/calculator.html
+**Tüm Araçlar:** https://www.invoiceluxe.com/tr/tools.html
+
+## Doğru Formül - En Sık Yapılan Hata
+
+600 TL KDV dahil ürün, %20 KDV çıkaracaksın:
+
+❌ Yanlış: 600 - 120 = 480 TL
+✅ Doğru: 600 / 1.20 = 500 TL net + 100 TL KDV
+
+## Formüller
+
+**KDV Ekle (Net → Brüt):**
 
 <!--
-**kdv-hesaplama-araci/kdv-hesaplama-araci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**kdv-hesaplama-araci/kdv-hesaplama-araci** 
