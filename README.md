@@ -16,5 +16,18 @@
 
 **KDV Ekle (Net → Brüt):**
 
+
+## Özellikler
+
+- %1, %8, %18 ve özel oran
+- PWA - offline çalışır
+- Kayıt yok
+- 22 dilde: TR, EN, DE, NL, FR, IT, ES
+
+## Linkler
+
+- https://www.invoiceluxe.com/tr/calculator.html
+- https://www.invoiceluxe.com/tr/tools.html
+
 <!--
 **kdv-hesaplama-araci/kdv-hesaplama-araci** 
